@@ -1,0 +1,2 @@
+ubuntu mono nerd fonts - bar
+droidsansm nerd font - st terminal
